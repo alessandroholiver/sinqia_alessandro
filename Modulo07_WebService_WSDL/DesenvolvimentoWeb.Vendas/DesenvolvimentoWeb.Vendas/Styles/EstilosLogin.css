@@ -1,0 +1,10 @@
+﻿#cabecalho {
+    display: inline;
+}
+
+@media screen and (max-width: 768px) {
+    #cabecalho {
+        display: none;
+    }
+
+}

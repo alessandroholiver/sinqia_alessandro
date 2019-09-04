@@ -1,0 +1,20 @@
+use master
+go
+CREATE DATABASE DB_CLINICA
+ON
+(
+NAME = DB_CLINICA_DAT,
+FILENAME = 'C:\Users\sinqia\Documents\Sinqia_AspNet\data\DB_CLINICA.mdf',
+SIZE= 5000KB,
+MAXSIZE = UNLIMITED,
+FILEGROWTH = 1000KB
+)
+LOG ON
+(
+NAME = DB_CLINICA_LOG,
+FILENAME = 'C:\Users\sinqia\Documents\Sinqia_AspNet\data\DB_CLINICA.ldf',
+SIZE= 2000KB,
+MAXSIZE = UNLIMITED,
+FILEGROWTH = 1000KB
+)
+GO

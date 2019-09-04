@@ -1,0 +1,13 @@
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\bin\Debug\Projeto01_Cadastroventos.exe.config
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\bin\Debug\Projeto01_Cadastroventos.exe
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\bin\Debug\Projeto01_Cadastroventos.pdb
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.csprojAssemblyReference.cache
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.FormCadastro.resources
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.Properties.Resources.resources
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.csproj.GenerateResource.cache
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.csproj.CoreCompileInputs.cache
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.exe
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.pdb
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\bin\Debug\Projeto02_AcessoDados.dll
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\bin\Debug\Projeto02_AcessoDados.pdb
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo03_ADONET\GestaoEventos\Projeto01_Cadastroventos\obj\Debug\Projeto01_Cadastroventos.csproj.CopyComplete

@@ -1,0 +1,43 @@
+﻿* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+
+.center {
+text-align: center;
+}
+
+.margin-padding {
+    margin: 20px;
+    padding: 20px;
+}
+
+.header {
+    font-family: 'Sarala', sans-serif;
+}
+.cabecalho {
+    
+background-color:rgba(128, 128, 128, 0.67);
+
+}
+
+.conteudo {
+
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.rodape {
+
+   
+    background-color: gray;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+body {
+}

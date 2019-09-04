@@ -1,0 +1,7 @@
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo07_WebService_WSDL\Projeto01_ServiceWFC\Projeto01_ServiceWFC\bin\Projeto01_ServiceWFC.dll.config
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo07_WebService_WSDL\Projeto01_ServiceWFC\Projeto01_ServiceWFC\bin\Projeto01_ServiceWFC.dll
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo07_WebService_WSDL\Projeto01_ServiceWFC\Projeto01_ServiceWFC\bin\Projeto01_ServiceWFC.pdb
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo07_WebService_WSDL\Projeto01_ServiceWFC\Projeto01_ServiceWFC\obj\Debug\Projeto01_ServiceWFC.csprojAssemblyReference.cache
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo07_WebService_WSDL\Projeto01_ServiceWFC\Projeto01_ServiceWFC\obj\Debug\Projeto01_ServiceWFC.csproj.CoreCompileInputs.cache
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo07_WebService_WSDL\Projeto01_ServiceWFC\Projeto01_ServiceWFC\obj\Debug\Projeto01_ServiceWFC.dll
+C:\Users\sinqia\Documents\Sinqia_AspNet\Modulo07_WebService_WSDL\Projeto01_ServiceWFC\Projeto01_ServiceWFC\obj\Debug\Projeto01_ServiceWFC.pdb
